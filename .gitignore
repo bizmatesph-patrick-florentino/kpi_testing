@@ -1,0 +1,11 @@
+# Real runtime config and local data — contain secrets / local identities.
+# These MUST NOT be committed. Credentials live only here, never in .ps1/.psm1.
+global-config.json
+user-mapping.json
+
+# Keep the committed template tracked (negation after the ignore above).
+!global-config.sample.json
+
+# ACR report output
+acr-report.csv
+*.acr-report.csv

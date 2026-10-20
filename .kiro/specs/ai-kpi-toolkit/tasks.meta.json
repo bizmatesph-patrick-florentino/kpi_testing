@@ -1,0 +1,272 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "12. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393459849
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395470348
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395587157
+      }
+    ],
+    "18. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393460089
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396803562
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396832539
+      }
+    ],
+    "21. Final checkpoint - Full suite and documentation": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393460222
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792397843049
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792397914509
+      }
+    ],
+    "1. Scaffold repo layout, steering file, config template, and gitignore": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393481311
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393596462
+      }
+    ],
+    "2. Create KPI.Common.psm1 skeleton with error helper and exports": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393601057
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393775189
+      }
+    ],
+    "3. Implement Import-KpiConfig with two-environment validation": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393779075
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393868179
+      }
+    ],
+    "4. Implement Resolve-KpiEnvironment": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393872020
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393937286
+      }
+    ],
+    "5. Implement JIRA request client with auth and error handling": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792393942408
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394178906
+      }
+    ],
+    "6. Implement Get-JiraFields field discovery": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394183868
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394458038
+      }
+    ],
+    "7. Implement Test-TicketAiAssisted evaluator": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394462521
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394835789
+      }
+    ],
+    "8. Implement Resolve-TicketPhase": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394840596
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394910790
+      }
+    ],
+    "9. Implement attribution and ticket normalization": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792394914770
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395018156
+      }
+    ],
+    "10. Implement Build-JqlQuery filter engine": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395022492
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395135875
+      }
+    ],
+    "11. Implement Get-JiraIssues paged fetch with normalization": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395140749
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395463480
+      }
+    ],
+    "13. Implement GitHub client and PR linking": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792395592942
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396026261
+      }
+    ],
+    "14. Implement Measure-TicketLoc with SHA dedupe and branch filter": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396031191
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396297667
+      }
+    ],
+    "15. Implement Measure-Acr aggregation": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396302364
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396481453
+      }
+    ],
+    "16. Implement Export-AcrReport output writer": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396486223
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396576215
+      }
+    ],
+    "17. Implement user mapping functions and Get-UserMapping.ps1 command": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396581355
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396798840
+      }
+    ],
+    "19. Wire Get-ACR.ps1 end-to-end": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792396837781
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792397689131
+      }
+    ],
+    "20. Create Get-RR.ps1 and Get-MLT.ps1 stub commands": [
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792397693952
+      },
+      {
+        "executionId": "d9af4def-bd02-470c-8c64-7f6ff1b25bb9",
+        "chatSessionId": "sess_6bf5addc-ea6e-4762-924b-1fb9d94ca17c",
+        "timestamp": 1792397837468
+      }
+    ]
+  }
+}

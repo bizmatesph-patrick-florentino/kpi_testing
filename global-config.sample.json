@@ -1,0 +1,29 @@
+﻿{
+  "environments": {
+    "test": {
+      "baseUrl": "https://your-domain-test.atlassian.net",
+      "email": "test-user@example.com",
+      "apiToken": "<jira-api-token-placeholder>"
+    },
+    "live": {
+      "baseUrl": "https://your-domain.atlassian.net",
+      "email": "ops-user@example.com",
+      "apiToken": "<jira-api-token-placeholder>"
+    }
+  },
+  "github": {
+    "baseUrl": "https://api.github.com",
+    "token": "<github-token-placeholder>"
+  },
+  "phaseKeywordMap": {
+    "Requirements": ["requirement"],
+    "Design": ["design"],
+    "Development": ["develop"],
+    "Testing": ["testing", "test", "qa"],
+    "UAT": ["uat"]
+  },
+  "validTargetBranches": ["main", "release", "develop"],
+  "aiEvidencedFieldId": "customfield_10234",
+  "aiAssistedValue": "AI-Assisted",
+  "uatPassedStatus": "UAT Passed"
+}
